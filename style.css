@@ -24,11 +24,9 @@ max-width:900px ;
 box-shadow:0 4px 8px 0 rgba(0,0,0,.2);
 padding:150px 0 150px 0;
 }
-
 .card:hover{
 box-shadow:0 16px 32px 0 rgba(0,0,0,.3);
 transition:.2s}
-
 .btn{
 width:167px ;
 height:120px ;
