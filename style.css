@@ -20,10 +20,9 @@ font-size:40px;
 text-align:center ;
 font-size:0;
 margin:0 auto;
-max-width:870px ;
-box-shadow:0 4px 8px 0 rgba(0,0,0,.3);
-height:970px;
-margin-top:100px;
+max-width:900px ;
+box-shadow:0 4px 8px 0 rgba(0,0,0,.2);
+padding:150px 0 150px 0;
 }
 
 .card:hover{
