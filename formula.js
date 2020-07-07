@@ -1,8 +1,5 @@
 
-alert("Hi!This is a simple Calculator.")
-alert("Don't forget to thank me!")
-
-
+alert("Welcome!")
 function insert(val){
   document.getElementById("output").value+=val;
 }
@@ -19,5 +16,5 @@ function backspace(){
     document.getElementById("output").value=prevalue.substr(0,prevalue.length-1);
 }
 function ac(){
-document.getElementById("output").value="0";
+document.getElementById("output").value="";
 }
