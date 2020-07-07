@@ -1,8 +1,5 @@
 
-alert("Hi!This is a simple Calculator.")
-alert("Don't forget to thank me!")
-
-
+alert("Welcome!")
 function insert(val){
   document.getElementById("output").value+=val;
 }
