@@ -16,5 +16,5 @@ function backspace(){
     document.getElementById("output").value=prevalue.substr(0,prevalue.length-1);
 }
 function ac(){
-document.getElementById("output").value="0";
+document.getElementById("output").value="";
 }
