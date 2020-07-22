@@ -18,3 +18,7 @@ function backspace(){
 function ac(){
 document.getElementById("output").value="";
 }
+function percent(){
+var per=document.getElementById("output").value;
+document.getElementById("output").value=per/100;
+}
